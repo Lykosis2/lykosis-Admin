@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled sorted 
+fd11a7190b6349b117cf02a2a8d88003d244dc9e refs/remotes/origin/admin
+de4b7068ebfee773417283bf7669297db9cdb97d refs/remotes/origin/before-release
+ec31a750864654ad2739bd2f834dcbb6394db2f8 refs/remotes/origin/main
+2f50ac1aea8e1fba0662aab6a77a389553ed7d65 refs/tags/admin-v0.1
+2f50ac1aea8e1fba0662aab6a77a389553ed7d65 refs/tags/admin-v0.2
+2c75b7dbb77d4b4496867647446d131113cf1480 refs/tags/admin-v0.3
+2f50ac1aea8e1fba0662aab6a77a389553ed7d65 refs/tags/admin-v1
+30c766ed3afeed8cb7146b39828cb3a2a370f925 refs/tags/admin-v1.1
+fd11a7190b6349b117cf02a2a8d88003d244dc9e refs/tags/admin-v1.1.1
+bd1e9f46a0ddd2d599b430d899ce77cd03af6613 refs/tags/app-v0.2
+c9497238803d92ef28c13fd9174a23be7aadc153 refs/tags/app-v1
+d66a20ef81c37546cbe0b352aacb684e104caf4e refs/tags/app-v1.0
+10b31a626433eb1ffeee82c5c9884c6d0e2c621a refs/tags/app-v1.0.4
+aa01e62c5574cd87d42b48685b57f6581f693447 refs/tags/app-v2.0.4
+ec31a750864654ad2739bd2f834dcbb6394db2f8 refs/tags/app-v2.0.8
